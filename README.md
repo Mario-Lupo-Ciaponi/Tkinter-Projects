@@ -3,7 +3,7 @@ This repository will contain simple tkinter projects.
 
 ## Projects:
 ### Calculator:
-An simple calculator that can perform the following operations:
+A simple calculator that can perform the following operations:
 - add(e.g. 4 + 5 = 9)
 - subtract(e.g. 9 - 5 = 4)
 - multiply(e.g. 4 * 5 = 20)
@@ -12,8 +12,11 @@ An simple calculator that can perform the following operations:
 
 ### Calendar(failed project):
 A calendar generator which takes the year as an input and generates a calendar of the given year.
-
 Note: the formatting is a little broken and should not be used
 
 ### BMI Calculator:
 An app that calculates your BMI based on your height(in meters) and weight(in kilograms).
+
+### Compound Interest Calculator:
+An app that calculates the compound interest. As input it takes principal amounts, rate and time.
+It also has the option to clear the result.
