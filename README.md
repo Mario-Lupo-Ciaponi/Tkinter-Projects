@@ -10,7 +10,10 @@ An simple calculator that can perform the following operations:
 - divide(e.g. 20 / 2 = 10)
 - square root(e.g. square root of 49 is 7)
 
-## Calendar(failed project):
+### Calendar(failed project):
 A calendar generator which takes the year as an input and generates a calendar of the given year.
 
 Note: the formatting is a little broken and should not be used
+
+### BMI Calculator:
+An app that calculates your BMI based on your height(in meters) and weight(in kilograms).
