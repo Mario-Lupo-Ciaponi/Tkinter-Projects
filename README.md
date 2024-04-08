@@ -20,3 +20,6 @@ An app that calculates your BMI based on your height(in meters) and weight(in ki
 ### Compound Interest Calculator:
 An app that calculates the compound interest. As input it takes principal amounts, rate and time.
 It also has the option to clear the result.
+
+### Percent calculator:
+An app that calculates the percent of the given amount(E.g. 10% of 100 = 10). Still in progress.
