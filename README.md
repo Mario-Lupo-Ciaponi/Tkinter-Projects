@@ -22,4 +22,5 @@ An app that calculates the compound interest. As input it takes principal amount
 It also has the option to clear the result.
 
 ### Percent calculator:
-An app that calculates the percent of the given amount(E.g. 10% of 100 = 10). Still in progress.
+An app that calculates the amount of the given percent(E.g. 10% of 100 = 10) and can also calculate the
+percent of the given amount(E.g. 50 of 100 = 50%).
